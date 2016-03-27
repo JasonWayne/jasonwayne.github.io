@@ -1,0 +1,26 @@
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":20,"msg":"Hexo version: \u001b[35m3.2.0\u001b[39m","time":"2016-03-27T15:55:46.182Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":20,"msg":"Working directory: \u001b[35m~/Codes/my-github/blog/\u001b[39m","time":"2016-03-27T15:55:46.184Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":20,"msg":"Config loaded: \u001b[35m~/Codes/my-github/blog/_config.yml\u001b[39m","time":"2016-03-27T15:55:46.253Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2016-03-27T15:55:46.263Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2016-03-27T15:55:46.265Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2016-03-27T15:55:46.267Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2016-03-27T15:55:46.268Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2016-03-27T15:55:46.271Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2016-03-27T15:55:46.272Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2016-03-27T15:55:46.341Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2016-03-27T15:55:46.430Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":20,"msg":"Loading database.","time":"2016-03-27T15:55:46.439Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":30,"msg":"Start processing","time":"2016-03-27T15:55:46.462Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":20,"msg":"Processed: \u001b[35m_posts/hello-world.md\u001b[39m","time":"2016-03-27T15:55:46.481Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-03-27T15:55:46.521Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-03-27T15:55:46.521Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-03-27T15:55:46.522Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-03-27T15:55:46.522Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-03-27T15:55:46.522Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-03-27T15:55:46.522Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-03-27T15:55:46.524Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":30,"msg":"Hexo is running at \u001b[4mhttp://localhost:4000/\u001b[24m. Press Ctrl+C to stop.","time":"2016-03-27T15:55:46.529Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":20,"msg":"Database saved","time":"2016-03-27T15:55:46.537Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":40,"msg":"No layout: \u001b[35mindex.html\u001b[39m","time":"2016-03-27T15:55:52.768Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":30,"msg":"Farewell","time":"2016-03-27T15:56:26.496Z","v":0}
+{"name":"hexo","hostname":"JasonWaynes-MacBook-Pro.local","pid":15554,"level":20,"msg":"Database saved","time":"2016-03-27T15:56:26.504Z","v":0}
