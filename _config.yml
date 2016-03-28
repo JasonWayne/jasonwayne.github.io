@@ -4,15 +4,15 @@
 
 # Site
 title: Hexo
-subtitle:
-description:
-author: John Doe
+subtitle: 我的个人博客
+description: ML, NLP, DM, Programming 
+author: Jason Wayne
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://jasonwayne.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
