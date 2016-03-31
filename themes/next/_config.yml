@@ -168,7 +168,7 @@ mathjax: true
 #baidu_analytics:
 
 # Duoshuo ShortName
-#duoshuo_shortname:
+duoshuo_shortname: jasonwayne
 
 # Disqus
 #disqus_shortname:
@@ -180,11 +180,11 @@ mathjax: true
 ##  type: button
 
 # Share
-#jiathis:
+jiathis: true
 #add_this_id:
 
 # Share
-#duoshuo_share: true
+duoshuo_share: true
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
